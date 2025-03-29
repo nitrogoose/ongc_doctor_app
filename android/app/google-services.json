@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086033513922",
+    "project_id": "ongchospital1009",
+    "storage_bucket": "ongchospital1009.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086033513922:android:903a9d98cfb3132be91a5b",
+        "android_client_info": {
+          "package_name": "com.example.ongc_doctor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkXXDlQ-3YuGnXCeY4PDqQuZ6v0KweQlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
